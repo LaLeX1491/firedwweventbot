@@ -1,0 +1,14 @@
+[
+    {
+        "name": "Nicklas Papenfuss",
+        "chief": true
+    }, 
+    {
+        "name": "Julian Kruber",
+        "chief": true
+    },
+    {
+        "name": "Till Prescher",
+        "chief": false
+    }    
+]
